@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="mega_texto">
+        <item name="android:fontFamily">@font/poppins_black</item>
+        <item name="android:textColor">@color/color_5</item>
+        <item name="android:textSize">48sp</item>
+    </style>
+
+    <style name="texto_normal">
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+    <style name="boton_normal">
+        <item name="backgroundTint">@null</item>
+        <item name="android:background">@drawable/fondo_boton_completo</item>
+        <item name="android:paddingVertical">8dp</item>
+        <item name="android:paddingHorizontal">15dp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="botom_escritorio">
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:background">@color/white</item>
+        <item name="android:elevation">5dp</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textColor">@color/color_1</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:paddingVertical">25dp</item>
+    </style>
+</resources>

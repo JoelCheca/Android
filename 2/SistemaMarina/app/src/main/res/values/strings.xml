@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Poseidón</string>
+    <string name="derechos">2022 - Todos los derechos reservados</string>
+    <string name="saludo">Hola</string>
+    <string name="empezar">Empezar</string>
+    <string name="mensaje_empezar">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel tincidunt lorem. Curabitur ac eros consectetur, efficitur erat vitae, commodo eros.</string>
+    <string name="terminos">Términos...</string>
+    <string name="inicio_sesion">Inicio de sesión</string>
+    <string name="descripcion_imagen_empezar">Mujer comprando televisores</string>
+    <string name="proveedores">Proveedores</string>
+    <string name="ayuda">Ayuda</string>
+    <string name="oficinas">Oficinas</string>
+
+    <string name="terminos_contenido">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean quis lectus a purus finibus ultricies ac et arcu. Sed sed interdum nisl. Duis facilisis nec enim at porta. In et erat dolor. Curabitur mollis aliquet sem, id lacinia erat facilisis id. Vestibulum gravida tempus neque, ut bibendum lectus eleifend a. Aenean aliquam, leo non pellentesque pretium, velit ipsum laoreet ante, at ullamcorper augue lorem et tellus. Etiam a placerat dui, nec blandit lectus. Nulla mollis arcu eget turpis laoreet porta. Pellentesque sodales massa diam, elementum faucibus urna molestie non. In consectetur lorem eget metus molestie, et dictum neque pulvinar. Aenean eget orci urna. Mauris eleifend lorem diam, suscipit feugiat metus dignissim in. Sed luctus erat id condimentum dapibus.
+        \n\n
+        Cras libero lorem, iaculis ut accumsan eu, egestas at magna. Ut eu mi lorem. Donec feugiat pretium commodo. Etiam pulvinar elit mauris, eget egestas nisi feugiat quis. Nullam id dui ut massa pellentesque consequat eu sit amet sem. Phasellus faucibus a magna vel eleifend. Etiam ut pharetra nibh, et mattis massa. Sed blandit tincidunt tincidunt. Sed sit amet vestibulum magna. Vestibulum molestie, libero a faucibus finibus, nulla sem malesuada sapien, a semper velit diam consectetur arcu. Fusce rutrum elit eu ex convallis, eu mollis lacus consequat. Nullam lacinia lobortis placerat. Aliquam et vestibulum augue. Ut aliquam leo vel sem maximus, eget semper est pretium.
+        \n\n
+        Nullam odio libero, pulvinar ac lorem vel, congue interdum quam. Nullam ullamcorper auctor arcu, sit amet aliquam mi mollis sed. Proin efficitur dictum viverra. Fusce gravida nunc a ex iaculis, eget ultricies ipsum vulputate. Pellentesque eros odio, tincidunt non quam ac, pellentesque sodales orci. Maecenas efficitur risus enim, eget congue justo ornare quis. Suspendisse congue bibendum mattis. Sed commodo justo non dolor tristique maximus. Quisque eget iaculis felis. Aliquam finibus tempor dignissim. Aenean sodales ex venenatis erat lacinia, et ornare est pharetra. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+        \n\n
+        Nullam posuere dolor sit amet est consectetur gravida. Curabitur in sodales tellus. Mauris tincidunt sollicitudin velit, quis condimentum nunc dapibus quis. Sed faucibus quam eu lorem mollis euismod. Vivamus nec mi eget tortor semper efficitur. Donec molestie iaculis lectus, eu sagittis purus. Morbi egestas odio sit amet varius dignissim. Donec eu venenatis leo. Proin vitae justo lacus. Fusce sollicitudin nibh a ultrices mollis. Ut nec consectetur eros, quis semper justo. Duis eget purus bibendum, rutrum quam ac, molestie tellus. Duis luctus tortor eget justo tincidunt, eget sagittis diam feugiat.
+        \n\n
+        Donec id egestas sapien. Etiam condimentum suscipit mauris, ut pretium nulla mollis a. Curabitur sem urna, tincidunt eget nunc at, pharetra vehicula magna. Cras consequat accumsan libero tempor convallis. Aenean ac nisl finibus nibh ornare pretium sed sed lacus. Nunc ornare malesuada dui, sed lacinia mi fringilla et. Vestibulum euismod bibendum orci, a efficitur enim tempus quis. Sed dui tellus, molestie sed enim ut, volutpat aliquet elit. Donec a sem quam. Nulla porta mauris eu ullamcorper consectetur. Nam gravida, lorem eu aliquam consequat, lorem velit maximus augue, ut luctus augue leo sit amet diam. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum porta lorem eu odio porttitor luctus.
+    </string>
+    <string name="nav_empleados">nav_empleados</string>
+    <string name="nav_Empleados">nav_empleados</string>
+    <string name="nav_empleadoos">nav_Empleadoos</string>
+    <string name="empleados">Empleados</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="mapa">Mapa</string>
+    <string name="iniciar_sesion">IniciarSesion</string>
+    <string name="usuario">Usuario</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="iniciar_ssesion">Iniciar Sesion</string>
+    <string name="escritorio">Escritorio</string>
+    <string name="tienda">Tienda</string>
+    <string name="caja">Caja</string>
+    <string name="coorporacion">Coorporacion</string>
+    <string name="cerrar_sesi_n">Cerrar Sesión</string>
+    <string name="salir">Salir</string>
+</resources>
